@@ -1,5 +1,5 @@
 # NADOS-FJP
-This is solution repo for Pep Coding's Resourses repo, here is the link fo rthe same https://www.pepcoding.com/resources/
+This is solution repo for Pep Coding's Resourses repo, here is the link fo rthe same https://www.pepcoding.com/resources/ <br>
 These are the categories for that I'll porvide codes for them.
 ![image](https://user-images.githubusercontent.com/29462263/132176353-0d5bb223-bd32-419b-ac2b-7175c48c9fe4.png)
 ![image](https://user-images.githubusercontent.com/29462263/132176410-5529eeed-d3c0-4cc6-ac4d-2a64c049bff8.png)
